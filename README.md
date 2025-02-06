@@ -13,9 +13,9 @@
 			<p> Phone Number: 517-517-5170 <hr>
 				Email Address: souzep25dew@dewittschools.net<hr>
 				Common	Place of Business: The Burb<hr>
-		<img src="Images/Hockey pic.jpg"
+		<img src="https://mail.google.com/mail/u/0?ui=2&ik=4297d6c024&attid=0.1&permmsgid=msg-a:r889302813807532573&th=194d11b9c4c8a342&view=att&disp=safe&realattid=194d11b921824db621d1&zw"
 		width="500px" height="500px">
-		<img src="Images/Onesie Me.jpg"
+		<img src="https://mail.google.com/mail/u/0?ui=2&ik=4297d6c024&attid=0.1&permmsgid=msg-a:r-1818910219856383734&th=194d61f3166afc61&view=att&disp=safe&realattid=194d61f2bed7605cf2a1&zw"
 		width="400px" height="500px">
 
 				</p>
